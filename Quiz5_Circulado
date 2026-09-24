@@ -14,7 +14,6 @@ int main() {
         total += savings;
     }
 
-    // Calculate average
     average = total / 7;
 
     printf("\n=================================\n");
